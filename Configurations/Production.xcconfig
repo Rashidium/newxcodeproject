@@ -1,0 +1,4 @@
+BUNDLE_ID = com.mobven.enterprise.newtoxcode.prod;
+APP_NAME = New to Xcode;
+LABEL = Prod Label;
+ENABLE_SOMETHING = NO;

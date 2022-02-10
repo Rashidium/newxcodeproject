@@ -1,0 +1,4 @@
+BUNDLE_ID = com.mobven.enterprise.newtoxcode.dev;
+APP_NAME = Xcode Dev;
+LABEL = Dev Label;
+ENABLE_SOMETHING = YES;
